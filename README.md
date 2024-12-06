@@ -15,5 +15,4 @@ update @ 2024/08/07
 
 - under loop , detect button status after debouce timing (short press , long press)
 
-![image](https://github.com/released/MS51_software_GPIO_debounce/master/log.jpg)
-
+![image](https://github.com/released/MS51_software_GPIO_debounce/blob/main/log.jpg)
